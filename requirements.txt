@@ -21,7 +21,7 @@ pluggy==0.13.0
 py==1.8.0
 pycodestyle==2.5.0
 pyflakes==2.1.1
-pylint==1.9.5
+pylint==1.9.4
 pyparsing==2.4.5
 pytest==4.6.6
 pytest-cov==2.8.1
