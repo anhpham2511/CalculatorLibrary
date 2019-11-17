@@ -9,7 +9,7 @@ entrypoints==0.3
 enum34==1.1.6
 flake8==3.7.9
 funcsigs==1.0.2
-futures==3.3.0
+futures==3.0.3
 importlib-metadata==0.23
 isort==4.3.21
 lazy-object-proxy==1.4.3
